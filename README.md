@@ -1,6 +1,6 @@
 # Zhihu-User-Interest-Extraction
 
-Project for undergraduate thesis (Communication University of China, Department of Computer Science, B.E Information Security)
+Project for undergraduate thesis (Communication University of China, Department of Computer Science, B.E Information Security, 2017)
 
 # Project description
 Raw data was collected from a China Q&A social networking website called "***ZHIHU***".
